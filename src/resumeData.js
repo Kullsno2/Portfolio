@@ -3,7 +3,7 @@ let resumeData = {
   titles: ["FULL.STACK.ENGINEER", "FRONT.END.ENGINEER", "BACK.END.ENGINEER"],
   imagebaseurl: "https://rbhatia46.github.io/",
   role: "Frontend Developer and Data Scientist",
-  headline: "Looking for Internship",
+  headline: "Looking for SDE roles",
   linkedinId: "Your LinkedIn Id",
   skypeid: "Your skypeid",
   roleDescription:
